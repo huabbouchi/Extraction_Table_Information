@@ -9,4 +9,4 @@ tabula==1.0.5
 tabula_py==2.9.0
 jpype1
 # tesseract-ocr
-git+https://github.com/tesseract-ocr/tesseract.git
+git+https://github.com/tesseract-ocr/tesseract
